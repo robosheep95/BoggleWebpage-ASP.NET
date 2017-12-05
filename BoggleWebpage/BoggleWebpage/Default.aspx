@@ -7,6 +7,8 @@
         <p class="lead">Boggle-VB.Net is a project built by Allen Retzler and Taylor Scafe</p>
         <p><a href="/about" class="btn btn-primary btn-lg">Learn more &raquo;</a></p>
         <br>
+        <p><a href="https://github.com/robosheep95/Boggle-VB.NET/raw/master/Builds/Boggle%20Game%201.00.exe" class="btn btn-primary btn-lg">Download &raquo;</a></p>
+        <br />
         <p><a href="https://github.com/robosheep95/Boggle-VB.NET" class="btn btn-primary btn-lg">GitHub Page &raquo;</a></p>
     </div>
 
